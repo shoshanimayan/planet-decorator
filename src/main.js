@@ -33,9 +33,9 @@ window.addEventListener('resize',onWindowResize);
 const loader = new GLTFLoader();
 
 
-const rockPath = "src/assets/low-poly_rock.glb";
-const treePath = "src/assets/low_poly_tree.glb";
-const bushPath = "src/assets/bush_1_-_low_poly.glb"
+const rockPath = "public/assets/low-poly_rock.glb";
+const treePath = "public/assets/low_poly_tree.glb";
+const bushPath = "public/assets/bush_1_-_low_poly.glb"
 let item = undefined
 
 
